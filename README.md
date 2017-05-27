@@ -13,3 +13,20 @@ the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/)
 * **/library** - Symbol libraries for all components 
 * **/modules** - Module files for components
 * **/packages3d** - 3D design files for components
+
+## Schematic Library Contents
+
+ * Switch DPDT TL2230 EE/OA
+ * Switch DPDT TL2285 EE/OA
+
+## PCB Footprints
+
+Fooprints:
+
+ * Switch DPDT TL2230
+ * Switch DPDT TL2285
+
+3D Components:
+
+ * Switch DPDT TL2230
+ * Switch DPDT TL2285
