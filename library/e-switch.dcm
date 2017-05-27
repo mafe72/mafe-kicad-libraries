@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL2230EE
+D Switch, dual Latching Type DPDT Mini Push Button, 6Pins Square 7mmx7mm
+K switch dual-pole double-throw DPDT spdt ON-ON TL2230 TL2230EE
+F C:/Users/mafe7/Documents/KiCad/MyLibrary/data_sheet/TL2230EE_datasheet.pdf
+$ENDCMP
+#
+$CMP TL2230OA
+D Switch, dual Momentary Type DPDT Mini Push Button, 6Pins Square 7mmx7mm
+K switch dual-pole double-throw DPDT spdt ON-ON TL2230 TL2230OA
+F C:/Users/mafe7/Documents/KiCad/MyLibrary/data_sheet/TL2230OA_datasheet.pdf
+$ENDCMP
+#
+$CMP TL2285EE
+D Switch, dual Latching Type DPDT Mini Push Button, 6Pins Square 8mmx8mm
+K switch dual-pole double-throw DPDT spdt ON-ON TL2285 TL2285EE
+F C:/Users/mafe7/Documents/KiCad/MyLibrary/data_sheet/TL2285EE_datasheet.pdf
+$ENDCMP
+#
+$CMP TL2285OA
+D Switch, dual Momentary Type DPDT Mini Push Button, 6Pins Square 8mmx8mm
+K switch dual-pole double-throw DPDT spdt ON-ON TL2285  TL2285OA
+F C:/Users/mafe7/Documents/KiCad/MyLibrary/data_sheet/TL2285OA_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
