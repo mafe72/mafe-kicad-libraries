@@ -10,6 +10,6 @@ the Creative Commons Foundation (http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Repository Contents
 
-* **/library** - symbol libraries for all components 
+* **/library** - Symbol libraries for all components 
 * **/modules** - Module files for components
 * **/packages3d** - 3D design files for components
