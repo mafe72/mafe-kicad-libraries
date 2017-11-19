@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PBH2UEENAGX
+D Switch, dual Latching Push Button Switch DPDT Standard Panel Mount, Through Hole, Right Angle, Rear 
+K switch dual-pole double-throw DPDT spdt ON-ON PBH2UEENAGX 
+$ENDCMP
+#
+$CMP PBH2UOANAGX
+D Switch, dual Momentary Push Button Switch DPDT Standard Panel Mount, Through Hole, Right Angle, Rear 
+K switch dual-pole double-throw DPDT spdt ON-ON PBH2UOANAGX
+$ENDCMP
+#
 $CMP TL2230EE
 D Switch, dual Latching Type DPDT Mini Push Button, 6Pins Square 7mmx7mm
 K switch dual-pole double-throw DPDT spdt ON-ON TL2230 TL2230EE
